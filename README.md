@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 2ru17</h1>
-<h3 align="center">Undergrad from DLSU-CCS</h3>
+<h3 align="center">124 Undergrad from DLSU-CCS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2ru17&label=Profile%20views&color=0e75b6&style=flat" alt="2ru17" /> </p>
 
