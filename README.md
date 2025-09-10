@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **nothing as of the moment**
 
-- 🌱 I’m currently learning **Machine Learning, Network and Information Security, OS, JS, reactJS, Tailwind, and C**
+- 🌱 I’m currently learning **Machine Learning, Network and Information Security, OS, JS, reactJS, Tailwind, Java and C**
 
-- 👯 I’m looking to collaborate on **Creating an OS**
+- 👯 I’m looking to collaborate in the future on **Creating an OS**
 
 - 🤝 I’m looking for help with **Cybersecurity Stuff**
 
