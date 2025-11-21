@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/2ru17_298" target="blank"><img src="https://img.shields.io/twitter/follow/2ru17_298?logo=twitter&style=for-the-badge" alt="2ru17_298" /></a> </p>
 
-- 🔭 I’m currently working on **nothing as of the moment**
+- 🔭 I’m currently working on my **Obsidian Notes to Git Archive**
 
 - 🌱 I’m currently learning **Machine Learning, Network and Information Security, OS, JS, reactJS, Tailwind, Java and C**
 
