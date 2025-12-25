@@ -1,36 +1,29 @@
 <h1 align="center">Hi 👋, I'm 2ru17</h1>
 <h3 align="center">124 Undergrad from DLSU-CCS</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=2ru17&label=Profile%20views&color=0e75b6&style=flat" alt="2ru17" /> </p>
+# 💫 About Me:
+<br><br> 🔭 I’m currently working on my Obsidian Notes to Git Archive<br><br>    🌱 I’m currently learning Machine Learning, Network and Information Security, OS, JS, reactJS, Tailwind, Java and C<br><br>    👯 I’m looking to collaborate in the future on Creating an OS<br><br>    🤝 I’m looking for help with Cybersecurity Stuff<br><br>    👨‍💻 All of my projects are available at https://github.com/2ru17<br><br>    📫 How to reach me darkgamer17298@gmail.com<br><br>    ⚡ Fun fact 172980 is my fav color<br>
 
-<p align="left"> <a href="https://twitter.com/2ru17_298" target="blank"><img src="https://img.shields.io/twitter/follow/2ru17_298?logo=twitter&style=for-the-badge" alt="2ru17_298" /></a> </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/n172980) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/2ru17) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/2ru17_298) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@2ru_17) 
 
-- 🔭 I’m currently working on my **Obsidian Notes to Git Archive**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=2ru17&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=2ru17&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=2ru17&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🌱 I’m currently learning **Machine Learning, Network and Information Security, OS, JS, reactJS, Tailwind, Java and C**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=2ru17&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-- 👯 I’m looking to collaborate in the future on **Creating an OS**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 🤝 I’m looking for help with **Cybersecurity Stuff**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=2ru17&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-- 👨‍💻 All of my projects are available at [https://github.com/2ru17](https://github.com/2ru17)
+---
+[![](https://visitcount.itsvg.in/api?id=2ru17&icon=2&color=0)](https://visitcount.itsvg.in)
 
-- 📫 How to reach me **darkgamer17298@gmail.com**
-
-- ⚡ Fun fact **172980 is my fav color**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/2ru17_298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="2ru17_298" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/n172980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="n172980" height="30" width="40" /></a>
-<a href="https://instagram.com/_niiru17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_niiru17" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/2ru17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="2ru17" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=2ru17&show_icons=true&locale=en" alt="2ru17" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2ru17&" alt="2ru17" /></p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
