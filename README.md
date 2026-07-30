@@ -2,7 +2,7 @@
 <h3 align="center">Sophomore from DLSU-CCS; BSCS - NIS</h3>
 
 # 💫 About Me:
-<br><br> 🔭 I’m currently working on my Obsidian Notes Archive<br><br>    🌱 I’m currently learning AI/ML, CybSec, OS, , WebDev<br><br>    👯 I’m looking to collaborate in the future on Creating an OS<br><br>    🤝 I’m looking for help with Cybersecurity Stuff<br><br>    👨‍💻 All of my projects are available at https://github.com/2ru17<br><br>    📫 How to reach me darkgamer17298@gmail.com<br><br>    ⚡ Fun fact 172980 is my fav color<br>
+<br><br> 🔭 I’m currently working on ConstellAI<br><br>    🌱 I’m currently learning AI/ML, CybSec, OS, , WebDev<br><br>    👯 I’m looking to collaborate in the future on Creating an OS<br><br>    🤝 I’m looking for help with Cybersecurity Stuff<br><br>    👨‍💻 All of my projects are available at https://github.com/2ru17<br><br>    📫 How to reach me darkgamer17298@gmail.com<br><br>    ⚡ Fun fact 172980 is my fav color<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/n172980) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/2ru17) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/2ru17_298) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@2ru_17) 
