@@ -3,16 +3,18 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=7DCFFF&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;random=false&amp;width=600&amp;height=30&amp;lines=CS+Student+%40+DLSU;Security+Enthusiast;Full-Stack+Developer;AI%2FML+Explorer;Linux+Nerd;OS+Tinkerer;Open+Source+Contributor" alt="Typing SVG" />
-  </a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7DCFFF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=30&lines=CS+Student+%40+DLSU;Security+Enthusiast;Full-Stack+Developer;AI%2FML+Explorer;Linux+Nerd;OS+Tinkerer;Open+Source+Contributor)](https://git.io/typing-svg)
+
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/n172980"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&amp;logo=linkedin&amp;logoColor=white" /></a>
-  <a href="https://reddit.com/user/2ru17"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat&amp;logo=reddit&amp;logoColor=white" /></a>
-  <a href="https://x.com/2ru17_298"><img src="https://img.shields.io/badge/X-000000?style=flat&amp;logo=x&amp;logoColor=white" /></a>
-  <a href="https://youtube.com/@2ru_17"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&amp;logo=youtube&amp;logoColor=white" /></a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/n172980)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://reddit.com/user/2ru17)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/2ru17_298)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@2ru_17)
+
 </div>
 
 <br/>
@@ -69,9 +71,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2ru17&amp;theme=dark&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" height="150" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=2ru17&amp;theme=dark&amp;hide_border=true" height="150" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2ru17&amp;theme=dark&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" height="150" alt="Top Languages"/>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2ru17&theme=dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/2ru17/2ru17)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=2ru17&theme=dark&hide_border=true)](https://github.com/2ru17/2ru17)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2ru17&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/2ru17/2ru17)
+
 </div>
 
 <br/>
@@ -79,7 +83,9 @@
 <details>
 <summary><h2>🏆 GitHub Trophies</h2></summary>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=2ru17&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4&amp;column=7" alt="Trophies"/>
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=2ru17&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/2ru17/2ru17)
+
 </div>
 </details>
 
@@ -98,17 +104,23 @@
 <details>
 <summary><h2>🔝 Top Contributed Repos</h2></summary>
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=2ru17&amp;limit=5&amp;theme=dark&amp;hide_border=true&amp;combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
+
+[![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=2ru17&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true)](https://github.com/2ru17/2ru17)
+
 </div>
 </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=dark" alt="Dev Quote"/>
+
+[![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/2ru17/2ru17)
+
 </div>
 
 <br/>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=2ru17&amp;style=flat&amp;color=7dcfff&amp;label=Profile+Views" alt="Profile views"/>
+
+[![Profile views](https://komarev.com/ghpvc/?username=2ru17&style=flat&color=7dcfff&label=Profile+Views)](https://github.com/2ru17/2ru17)
+
 </div>
