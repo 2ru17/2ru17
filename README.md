@@ -1,29 +1,114 @@
-<h1 align="center">Hi 👋, I'm 2ru17</h1>
-<h3 align="center">Sophomore from DLSU-CCS; BSCS - NIS</h3>
+<div align="center">
+  <img src="『影』.gif" alt="2ru17 banner" width="100%"/>
+</div>
 
-# 💫 About Me:
-<br><br> 🔭 I’m currently working on ConstellAI<br><br>    🌱 I’m currently learning AI/ML, CybSec, OS, , WebDev<br><br>    👯 I’m looking to collaborate in the future on Creating an OS<br><br>    🤝 I’m looking for help with Cybersecurity Stuff<br><br>    👨‍💻 All of my projects are available at https://github.com/2ru17<br><br>    📫 How to reach me darkgamer17298@gmail.com<br><br>    ⚡ Fun fact 172980 is my fav color<br>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7DCFFF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=30&lines=CS+Student+%40+DLSU;Security+Enthusiast;Full-Stack+Developer;AI%2FML+Explorer;Linux+Nerd;OS+Tinkerer;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/n172980) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/2ru17) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/2ru17_298) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@2ru_17) 
+<div align="center">
+  <a href="https://linkedin.com/in/n172980"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://reddit.com/user/2ru17"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white" /></a>
+  <a href="https://x.com/2ru17_298"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" /></a>
+  <a href="https://youtube.com/@2ru_17"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=2ru17&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=2ru17&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=2ru17&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=2ru17&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+## 👤 About Me
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+> CS Student @ DLSU · Building things that break things.
+> Currently exploring the intersections of security, systems, and AI.
+> All my projects live [here](https://github.com/2ru17).
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=2ru17&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
-[![](https://visitcount.itsvg.in/api?id=2ru17&icon=2&color=0)](https://visitcount.itsvg.in)
+## 🔭 Currently Working On
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- **[ConstellAI](https://github.com/2ru17/ConstellAI)** — AI-powered project
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<details>
+<summary><h2>💻 Tech Stack</h2></summary>
+
+### 🔤 Languages
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### ⚙️ Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Mantine](https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge&logo=mantine&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+### 🔐 Security Arsenal
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white)
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=2ru17&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=2ru17&theme=dark&hide_border=true" height="150" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2ru17&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="Top Languages"/>
+</div>
+
+<br/>
+
+<details>
+<summary><h2>🏆 GitHub Trophies</h2></summary>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=2ru17&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
+</div>
+</details>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2ru17/2ru17/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2ru17/2ru17/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/2ru17/2ru17/output/github-snake.svg">
+  </picture>
+</div>
+
+<br/>
+
+<details>
+<summary><h2>🔝 Top Contributed Repos</h2></summary>
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=2ru17&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
+</div>
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
+</div>
+
+<br/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=2ru17&style=flat&color=7dcfff&label=Profile+Views" alt="Profile views"/>
+</div>
