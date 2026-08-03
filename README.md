@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7DCFFF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=30&lines=CS+Student+%40+DLSU;Security+Enthusiast;Full-Stack+Developer;AI%2FML+Explorer;Linux+Nerd;OS+Tinkerer;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7DCFFF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=45&lines=CS+Student+%40+DLSU;Security+Enthusiast;Full-Stack+Developer;AI%2FML+Explorer;Linux+Nerd;OS+Tinkerer;Open+Source+Contributor)](https://git.io/typing-svg)
 
 </div>
 
@@ -72,14 +72,15 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2ru17&theme=dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/2ru17/2ru17)
+[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=2ru17&theme=dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/2ru17/2ru17)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=2ru17&theme=dark&hide_border=true)](https://github.com/2ru17/2ru17)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2ru17&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/2ru17/2ru17)
+[![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=2ru17&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/2ru17/2ru17)
 
 </div>
 
 <br/>
 
+<!-- Note: GitHub Profile Trophies is currently disabled because the public Vercel API instance is down for exceeding free tier. Once it is back up or you deploy your own instance, you can uncomment this section!
 <details>
 <summary><h2>🏆 GitHub Trophies</h2></summary>
 <div align="center">
@@ -90,6 +91,7 @@
 </details>
 
 <br/>
+-->
 
 <div align="center">
   <picture>
@@ -101,6 +103,7 @@
 
 <br/>
 
+<!-- Note: Top Contributed Repos is also disabled because the public Vercel API instance is down. 
 <details>
 <summary><h2>🔝 Top Contributed Repos</h2></summary>
 <div align="center">
@@ -111,6 +114,7 @@
 </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+-->
 
 <div align="center">
 
