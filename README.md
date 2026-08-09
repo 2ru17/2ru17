@@ -32,7 +32,7 @@
 
 ## 🔭 Currently Working On
 
-- **[ConstellAI](https://github.com/2ru17/ConstellAI)** — AI-powered project
+- **[ConstellAI](https://github.com/ConstellAi)** — AI-powered project
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -82,19 +82,6 @@
 
 <br/>
 
-<!-- Note: GitHub Profile Trophies is currently disabled because the public Vercel API instance is down for exceeding free tier. Once it is back up or you deploy your own instance, you can uncomment this section!
-<details>
-<summary><h2>🏆 GitHub Trophies</h2></summary>
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=2ru17&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/2ru17/2ru17)
-
-</div>
-</details>
-
-<br/>
--->
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2ru17/2ru17/output/github-snake-dark.svg">
@@ -104,19 +91,6 @@
 </div>
 
 <br/>
-
-<!-- Note: Top Contributed Repos is also disabled because the public Vercel API instance is down. 
-<details>
-<summary><h2>🔝 Top Contributed Repos</h2></summary>
-<div align="center">
-
-[![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=2ru17&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true)](https://github.com/2ru17/2ru17)
-
-</div>
-</details>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
--->
 
 <div align="center">
 
