@@ -79,9 +79,9 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🛒 <a href="https://github.com/2ru17/BudolCheck">BudolCheck</a> <sub><small>(Commissioned)</small></sub></h3>
+      <h3>🛒 <a href="https://github.com/2ru17/BudolCheck">BudolCheck</a> <sub><small>(In Progress · Commissioned)</small></sub></h3>
       <p><b>Smart E-Commerce Verification & Anti-Scam Platform</b></p>
-      <p>Full-stack verification web application featuring a 6-point heuristic analysis engine, seller credibility scoring, dispute reporting (RA 11967), and cross-store search across Shopee, Lazada, and Temu.</p>
+      <p><i>Ongoing commissioned project.</i> Full-stack verification web application featuring a 6-point heuristic analysis engine, seller credibility scoring, dispute reporting (RA 11967), and cross-store search across Shopee, Lazada, and Temu.</p>
       <p>
         <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -116,9 +116,9 @@
       <td><code>Next.js 16</code> <code>React 19</code> <code>Tailwind v4</code> <code>Motion</code> <code>Force-Graph</code></td>
     </tr>
     <tr>
-      <td><b><a href="https://github.com/2ru17/BudolCheck">BudolCheck</a></b><br/><sub>💼 Commissioned Work</sub></td>
+      <td><b><a href="https://github.com/2ru17/BudolCheck">BudolCheck</a></b><br/><sub>🚧 In Progress · Commissioned</sub></td>
       <td><a href="https://budol-check.vercel.app"><code>budol-check.vercel.app</code></a></td>
-      <td>Smart e-commerce verification & anti-scam web app to spot fake reviews, deceptive promos, and scam sellers across Shopee, Lazada, and Temu.</td>
+      <td>Smart e-commerce verification & anti-scam web app (in active development) to spot fake reviews, deceptive promos, and scam sellers across Shopee, Lazada, and Temu.</td>
       <td><code>React 18</code> <code>TypeScript</code> <code>Vite</code> <code>Mantine UI</code> <code>Express</code> <code>SQLite</code></td>
     </tr>
     <tr>
