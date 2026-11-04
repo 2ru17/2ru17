@@ -64,7 +64,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h3>🌌 <a href="https://github.com/ConstellAi">ConstellAI</a></h3>
       <p><b>Privacy-First, Offline Semantic Research Environment & Knowledge Graph</b></p>
       <p>Transforms local document collections into an interactive, searchable knowledge constellation with zero external telemetry, local embedding pipelines, and semantic graph visualization.</p>
@@ -76,6 +76,20 @@
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
         <img src="https://img.shields.io/badge/ChromaDB-FF6600?style=flat-square&logo=databricks&logoColor=white" alt="ChromaDB"/>
         <img src="https://img.shields.io/badge/Local_AI-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 <a href="https://github.com/2ru17/BudolCheck">BudolCheck</a> <sub><small>(Commissioned)</small></sub></h3>
+      <p><b>Smart E-Commerce Verification & Anti-Scam Platform</b></p>
+      <p>Full-stack verification web application featuring a 6-point heuristic analysis engine, seller credibility scoring, dispute reporting (RA 11967), and cross-store search across Shopee, Lazada, and Temu.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+        <img src="https://img.shields.io/badge/Mantine_UI-339AF0?style=flat-square&logo=mantine&logoColor=white" alt="Mantine"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
       </p>
     </td>
   </tr>
@@ -100,6 +114,12 @@
       <td><a href="https://2ru17-project-engram.vercel.app"><code>2ru17-project-engram.vercel.app</code></a></td>
       <td>Interactive CS knowledge archive & topological graph mapping DLSU CS coursework with cyber-zen aesthetics and LaTeX math.</td>
       <td><code>Next.js 16</code> <code>React 19</code> <code>Tailwind v4</code> <code>Motion</code> <code>Force-Graph</code></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/2ru17/BudolCheck">BudolCheck</a></b><br/><sub>💼 Commissioned Work</sub></td>
+      <td><a href="https://budol-check.vercel.app"><code>budol-check.vercel.app</code></a></td>
+      <td>Smart e-commerce verification & anti-scam web app to spot fake reviews, deceptive promos, and scam sellers across Shopee, Lazada, and Temu.</td>
+      <td><code>React 18</code> <code>TypeScript</code> <code>Vite</code> <code>Mantine UI</code> <code>Express</code> <code>SQLite</code></td>
     </tr>
     <tr>
       <td><b><a href="https://github.com/2ru17/johia-cubao-web">JOHIA Cubao</a></b></td>
@@ -147,9 +167,11 @@
 
 ### 🛠️ Backend, Systems & Data
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6600?style=for-the-badge&logo=databricks&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
