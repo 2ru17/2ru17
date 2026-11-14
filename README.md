@@ -79,7 +79,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🛒 <a href="https://github.com/2ru17/BudolCheck">BudolCheck</a> <sub><small>(In Progress · Commissioned)</small></sub></h3>
+      <h3>🛒 <a href="https://budol-check.vercel.app">BudolCheck</a> <sub><small>(In Progress · Commissioned)</small></sub></h3>
       <p><b>Smart E-Commerce Verification & Anti-Scam Platform</b></p>
       <p><i>Ongoing commissioned project.</i> Full-stack verification web application featuring a 6-point heuristic analysis engine, seller credibility scoring, dispute reporting (RA 11967), and cross-store search across Shopee, Lazada, and Temu.</p>
       <p>
