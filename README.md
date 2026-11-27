@@ -96,7 +96,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤝 <a href="https://github.com/2ru17/Serv-App">SERV (Serv-App)</a></h3>
+      <h3>🤝 <a href="https://github.com/2ru17/Serv-App">SERV (Serv-App)</a> <sub><small>(Commissioned)</small></sub></h3>
       <p><b>Specialist Services Marketplace & Project Workspace</b></p>
       <p>Two-sided marketplace connecting clients with independent specialists across Creative, Business, Digital & Tech, and Research—featuring side-by-side proposal comparison, itemized bookings with PDF receipts, milestone workspaces, and an Admin Console.</p>
       <p>
@@ -155,7 +155,7 @@
       <td><code>React 18</code> <code>TypeScript</code> <code>Vite</code> <code>Mantine UI</code> <code>Express</code> <code>Supabase</code> <code>SQLite</code></td>
     </tr>
     <tr>
-      <td><b><a href="https://github.com/2ru17/Serv-App">SERV</a></b></td>
+      <td><b><a href="https://github.com/2ru17/Serv-App">SERV</a></b><br/><sub>Commissioned</sub></td>
       <td><a href="https://serv-app-project.vercel.app"><code>serv-app-project.vercel.app</code></a></td>
       <td>Specialist services marketplace for Creative, Business, Digital & Tech, and Research with proposal comparison, itemized bookings, deliverable workspaces, and admin moderation.</td>
       <td><code>React 19</code> <code>TypeScript</code> <code>Vite 6</code> <code>Tailwind v4</code> <code>TanStack Query</code> <code>PostgreSQL</code></td>
