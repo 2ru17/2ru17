@@ -79,17 +79,50 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🛒 <a href="https://budol-check.vercel.app">BudolCheck</a> <sub><small>(In Progress · Commissioned)</small></sub></h3>
-      <p><b>Smart E-Commerce Verification & Anti-Scam Platform</b></p>
-      <p><i>Ongoing commissioned project.</i> Full-stack verification web application featuring a 6-point heuristic analysis engine, seller credibility scoring, dispute reporting (RA 11967), and cross-store search across Shopee, Lazada, and Temu.</p>
+      <h3>🛒 <a href="https://budol-check.vercel.app">BudolCheck</a> <sub><small>(Commissioned)</small></sub></h3>
+      <p><b>Consumer E-Commerce Verification & Anti-Scam Platform</b></p>
+      <p>Full-stack consumer verification companion and pricing audit platform featuring fake-sale ("Pekeng Sale") detection, 4-tab verification reports, seller & fulfillment legitimacy audits, buyer review/fit consensus, bilingual EN/FIL UI, and a companion Android APK.</p>
       <p>
         <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
         <img src="https://img.shields.io/badge/Mantine_UI-339AF0?style=flat-square&logo=mantine&logoColor=white" alt="Mantine"/>
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
         <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤝 <a href="https://github.com/2ru17/Serv-App">SERV (Serv-App)</a></h3>
+      <p><b>Specialist Services Marketplace & Project Workspace</b></p>
+      <p>Two-sided marketplace connecting clients with independent specialists across Creative, Business, Digital & Tech, and Research—featuring side-by-side proposal comparison, itemized bookings with PDF receipts, milestone workspaces, and an Admin Console.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/Vite_6-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+        <img src="https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+        <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+        <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod"/>
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 JOHIA Congregation Health & Admin Portal <sub><small>(Private)</small></sub></h3>
+      <p><b>Full-Stack Consolidation, Attendance & Stewardship Platform</b></p>
+      <p>Internal church management and analytics portal featuring Google Sheets-style inline editing and multi-row TSV copy-paste, duplicate detection, <code>.xlsx</code>/<code>.csv</code> workbook exports, role-based access control, soft-archiving, immutable audit logs, and offline-capable cloud sync.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/Vite_6-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+        <img src="https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+        <img src="https://img.shields.io/badge/TanStack_Table-FF4154?style=flat-square&logo=reacttable&logoColor=white" alt="TanStack Table"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+        <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod"/>
       </p>
     </td>
   </tr>
@@ -116,10 +149,16 @@
       <td><code>Next.js 16</code> <code>React 19</code> <code>Tailwind v4</code> <code>Motion</code> <code>Force-Graph</code></td>
     </tr>
     <tr>
-      <td><b><a href="https://github.com/2ru17/BudolCheck">BudolCheck</a></b><br/><sub>🚧 In Progress · Commissioned</sub></td>
+      <td><b><a href="https://github.com/2ru17/BudolCheck">BudolCheck</a></b><br/><sub>Commissioned</sub></td>
       <td><a href="https://budol-check.vercel.app"><code>budol-check.vercel.app</code></a></td>
-      <td>Smart e-commerce verification & anti-scam web app (in active development) to spot fake reviews, deceptive promos, and scam sellers across Shopee, Lazada, and Temu.</td>
-      <td><code>React 18</code> <code>TypeScript</code> <code>Vite</code> <code>Mantine UI</code> <code>Express</code> <code>SQLite</code></td>
+      <td>Consumer e-commerce verification & anti-scam companion featuring fake-sale detection, 4-tab seller/fulfillment audits, buyer fit consensus, and bilingual EN/FIL UI.</td>
+      <td><code>React 18</code> <code>TypeScript</code> <code>Vite</code> <code>Mantine UI</code> <code>Express</code> <code>Supabase</code> <code>SQLite</code></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/2ru17/Serv-App">SERV</a></b></td>
+      <td><a href="https://serv-app-project.vercel.app"><code>serv-app-project.vercel.app</code></a></td>
+      <td>Specialist services marketplace for Creative, Business, Digital & Tech, and Research with proposal comparison, itemized bookings, deliverable workspaces, and admin moderation.</td>
+      <td><code>React 19</code> <code>TypeScript</code> <code>Vite 6</code> <code>Tailwind v4</code> <code>TanStack Query</code> <code>PostgreSQL</code></td>
     </tr>
     <tr>
       <td><b><a href="https://github.com/2ru17/johia-cubao-web">JOHIA Cubao</a></b></td>
@@ -138,6 +177,12 @@
       <td><a href="https://creatives.johiacubao.com"><code>creatives.johiacubao.com</code></a></td>
       <td>Interactive onboarding and creative portfolio app featuring procedural DSLR viewfinders, 3D poster layer deconstruction, and galleries.</td>
       <td><code>Next.js 16</code> <code>React 19</code> <code>Three.js</code> <code>R3F</code> <code>Tailwind v4</code> <code>Motion</code></td>
+    </tr>
+    <tr>
+      <td><b>JOHIA Admin Portal</b><br/><sub>🔒 Private</sub></td>
+      <td><i>Internal / Private</i></td>
+      <td>Congregation health, attendance, and stewardship analytics portal with Google Sheets-style inline editing, duplicate monitoring, <code>.xlsx</code> import/export, RBAC, and immutable audit logs.</td>
+      <td><code>React 19</code> <code>TypeScript</code> <code>Vite 6</code> <code>Tailwind v4</code> <code>TanStack Table</code> <code>Supabase</code> <code>PostgreSQL</code></td>
     </tr>
   </tbody>
 </table>
@@ -162,6 +207,10 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Mantine](https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge&logo=mantine&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![TanStack Table](https://img.shields.io/badge/TanStack_Table-FF4154?style=for-the-badge&logo=reacttable&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
+![Motion](https://img.shields.io/badge/Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
@@ -169,6 +218,9 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6600?style=for-the-badge&logo=databricks&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
