@@ -96,7 +96,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤝 <a href="https://github.com/2ru17/Serv-App">SERV (Serv-App)</a> <sub><small>(Commissioned)</small></sub></h3>
+      <h3>🤝 <a href="https://serv-app-project.vercel.app/">SERV (Serv-App)</a> <sub><small>(Commissioned)</small></sub></h3>
       <p><b>Specialist Services Marketplace & Project Workspace</b></p>
       <p>Two-sided marketplace connecting clients with independent specialists across Creative, Business, Digital & Tech, and Research—featuring side-by-side proposal comparison, itemized bookings with PDF receipts, milestone workspaces, and an Admin Console.</p>
       <p>
